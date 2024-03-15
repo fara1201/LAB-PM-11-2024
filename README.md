@@ -12,7 +12,7 @@
 
 ### Step 2: Clone the Forked Repository
 1. Open Android Studio.
-2. Select "Get from Version Control" from the welcome screen or go to `VCS > Git > Clone` //or// go to your main menu(Alt + \), then select `VCS > Enable VCS > Select Git > Ok`, after that go to your main menu again and select `Git > Clone`.
+2. Select "Get from Version Control System" from the welcome screen or go to `VCS > Git > Clone` //or// go to your main menu(Alt + \), then select `VCS > Enable VCS > Select Git > Ok`, after that go to your main menu again and select `Git > Clone`.
 3. Copy the URL of the forked repository from your GitHub account.
 4. Paste the URL into the URL field in Android Studio.
 5. Click "Clone" to download the forked repository to their local machine.
