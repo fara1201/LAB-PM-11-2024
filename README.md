@@ -32,8 +32,9 @@
 2. Select the files you want to commit by checking the boxes next to their names.
 3. Enter a commit message describing the changes made.
 4. Click on the "Commit" button to commit the changes.
-5. After committing changes, go to `VCS > Git > Push` to push the changes to the forked repository on GitHub.
-6. In the Push dialog, select the branch you want to push (usually `main` or `master`) and click "Push" to upload your changes to GitHub.
+5. After commit, create new branch by `Ctrl + Alt + N` then enter your NIM as the branch name.
+6. After committing changes, go to `VCS > Git > Push` to push the changes to the forked repository on GitHub.
+7. In the Push dialog, select your NIM as the branch click "Push" to upload your changes to GitHub.
 
 ### Step 6: Create a Pull Request
 1. After pushing changes to the forked repository, navigate to the forked repository on GitHub.
